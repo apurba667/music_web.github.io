@@ -91702,7 +91702,7 @@ A.a_X.prototype={
 au(){this.d.oZ()
 this.aI()},
 J(a){var s=null
-return A.bi(s,A.cd(A.b([A.ar("Recent Events",s,s,s,A.av(a).p3.w,s,s),B.c6,A.aU(new A.ec(new A.axK(this,a),s),520*$.b0().gbn(),1/0)],t.p),B.ac,B.p,B.m),B.k,s,s,B.dK,s,s,s,s,B.c_,s,s,s)}}
+return A.bi(s,A.cd(A.b([A.ar("Recent Events",s,s,s,A.av(a).p3.w,s,s),B.c6,A.aU(new A.ec(new A.axK(this,a),s),750*$.b0().gbn(),1/0)],t.p),B.ac,B.p,B.m),B.k,s,s,B.dK,s,s,s,s,B.c_,s,s,s)}}
 A.axK.prototype={
 $0(){var s,r=this.a,q=r.d.cy
 q=J.aI(q.gl(q))
